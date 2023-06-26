@@ -9,3 +9,5 @@ git 牛逼
 什么原理
 
 面向修改，而不是文件
+
+Create a new branch is quick & simple
