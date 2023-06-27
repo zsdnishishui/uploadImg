@@ -15,5 +15,3 @@ Creating a new branch is quick and simple.
 
 
 no-ff
-
-原理是什么
